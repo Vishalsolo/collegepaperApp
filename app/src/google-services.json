@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640734951910",
+    "project_id": "coolege-papr",
+    "storage_bucket": "coolege-papr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640734951910:android:85898ec6fc48932b5a3e27",
+        "android_client_info": {
+          "package_name": "com.collegepaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvO-Ylm_0SG1lYsHAhz_wOC_oMia0Egc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

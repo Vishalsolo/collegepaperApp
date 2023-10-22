@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">College Papers</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+    </string>
+    <string name="bca1">BCA 1 and 2 Semester</string>
+    <string name="bca2">BCA 3 and 4 Semester</string>
+    <string name="bca3">BCA 5 and 6 Semester</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="MATHS">MATHS</string>
+    <string name="BCA">B C A</string>
+</resources>
